@@ -1,0 +1,10 @@
+.button-home{
+    display: flex;
+    height: 40px;
+    width: 101px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    background-color: var(--bg-color-primary);
+    color: var(--font-color-tertiary);
+}

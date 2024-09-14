@@ -1,0 +1,9 @@
+.searchbox input{
+    height: 40px;
+    width: 298px;
+    color: var(--font-color-placeholder);
+    align-items: center;
+    padding-left: 15px;
+}
+
+
